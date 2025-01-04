@@ -1,0 +1,31 @@
+
+div{
+    border: 10px double rgb(17, 17, 17);
+    padding: 30px ;
+    margin: 15px ;
+    background-color: antiquewhite;
+
+}
+p{
+    color: black;
+    text-align: center;
+    font-family: Yu Gothic UI Semibold ;
+} 
+h1 ,h2 ,h3 ,h4 ,h5 {
+    text-align: center;
+    font-family: algerian ;
+    color: rgb(54, 14, 235);
+}
+table, td, th {
+    border: 2px solid ;
+    padding: 2px;
+}
+tr:hover{
+    color: rgb(55, 16, 210);
+    background-color: yellow;
+}
+.container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr; /* Trois colonnes égales */
+    gap: 10px; /* Espace entre les éléments */
+}

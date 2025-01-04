@@ -1,0 +1,1 @@
+var json_GareMeknes_1 = {"type":"FeatureCollection","name":"GareMeknes_1","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","nom":"gare de meknes","x":487656.0,"y":366468.0},"geometry":{"type":"Point","coordinates":[-5.531889755852716,33.896790310922214]}}]}
